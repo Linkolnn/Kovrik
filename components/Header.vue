@@ -1,6 +1,6 @@
 <script setup>
-import { useNavigationStore } from '../stores/navigation';
-import { showMenu, hideMenu } from '../animation/animation';
+import { useNavigationStore } from '@/stores/navigation';
+import { showMenu, hideMenu } from '@/animation/animation';
 
 const navigationStore = useNavigationStore();
 const contacts = computed(() => navigationStore.contactInfo);
@@ -118,6 +118,7 @@ const toggleNavMenu = () => {
   
   &--right
     align-items: flex-end
+    max-width: 235px
 
 .header__link
   text-decoration: none
