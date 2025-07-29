@@ -1,0 +1,34 @@
+{
+  "categories": {
+    "Линолеум": {
+      "name": "Линолеум",
+      "media": "/images/categories/paint.webm",
+      "alt": "Краски и лакокрасочные материалы"
+    },
+    "Солнцезащита": {
+      "name": "Солнцезащита",
+      "media": "/images/categories/wallpaper.svg",
+      "alt": "Обои для стен"
+    },
+    "Ковры": {
+      "name": "Ковры",
+      "media": "/images/categories/bathroom.svg",
+      "alt": "Ванны и сантехника для ванной комнаты"
+    },
+    "Панели": {
+      "name": "Панели",
+      "media": "/images/categories/plumbing.webm",
+      "alt": "Сантехника и водопроводное оборудование"
+    },
+    "Плинтуса": {
+      "name": "Плинтуса",
+      "media": "/images/categories/electrical.svg",
+      "alt": "Электрооборудование и кабельная продукция"
+    },
+    "Грязезащита": {
+      "name": "Грязезащита",
+      "media": "/images/categories/furniture.jpg",
+      "alt": "Мебельная фурнитура и крепежные элементы"
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Линолеум",
+      "url": "/linoleum",
+      "color": "#D26445"
+    },
+    {
+      "id": 2,
+      "name": "Солнцезащита",
+      "url": "/sun-protection",
+      "color": "#D8A940"
+    },
+    {
+      "id": 3,
+      "name": "Ковры",
+      "url": "/Carpets",
+      "color": "#FD9943"
+    },
+    {
+      "id": 4,
+      "name": "Панели",
+      "url": "/panels",
+      "color": "#E0914C"
+    },
+    {
+      "id": 5,
+      "name": "Плинтуса",
+      "url": "/baseboard",
+      "color": "#D06055"
+    },
+    {
+      "id": 6,
+      "name": "Грязезащита",
+      "url": "/mud-protection",
+      "color": "#AE3142"
+    }
+  ],
+  "contacts": {
+    "phone": "+734676 36777",
+    "email": "kovrikurai@yandex.ru",
+    "address": "г. Урай мкр Западный, дом 14А"
+  },
+  "social": {
+    "telegram": "https://t.me/vizituray",
+    "vk": "https://vk.com/vizituray_salon_oboev"
+  }
+}

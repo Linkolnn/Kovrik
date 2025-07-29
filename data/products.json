@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Линолеум",
+      "description": "Линолеум",
+      "image": "",
+      "category": "Линолеум",
+      "specifications": {
+        "Линолеум": "Линолеум"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Солнцезащита",
+      "description": "Солнцезащита",
+      "image": "",
+      "category": "Солнцезащита",
+      "specifications": {
+        "Солнцезащита": "Солнцезащита"
+      }
+    }
+  ]
+}

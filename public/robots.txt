@@ -1,0 +1,27 @@
+User-Agent: *
+Allow: /
+Allow: /wallpaper
+Allow: /bathroom
+Allow: /plumbing
+Allow: /electrical
+Allow: /furniture
+Allow: /paint
+Allow: /contacts
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+
+Host: https://vizit-uray.vercel.app
+Sitemap: https://vizit-uray.vercel.app/sitemap.xml
+
+# Ключевые запросы для поисковых систем:
+# Визит Урай
+# магазин Визит Урай
+# Визит магазин Урай
+# Обои Урай
+# Ванны Урай
+# Сантехника Урай
+# Электрика Урай
+# Мебель Урай
+# Краски Урай
+# г. Урай мкр 1Д, дом 75А
